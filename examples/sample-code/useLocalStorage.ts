@@ -1,3 +1,11 @@
+/**
+ * EXAMPLE CODE ONLY
+ * 
+ * This is demonstration code for the Context Engineering guide.
+ * It's not meant to be executed directly, but to show proper component structure.
+ * In a real project, you would need to install React and TypeScript dependencies.
+ */
+
 import { useState, useEffect } from 'react';
 
 /**
