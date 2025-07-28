@@ -11,7 +11,7 @@ flowchart TD
     E -->|Fails validation| D
     
     %% Style nodes with contrasting text colors for better visibility
-    style title fill:none,stroke:none,color:black,font-weight:bold,font-size:18px
+    style title fill:none,stroke:none,color:white,font-weight:bold,font-size:18px
     style A fill:#f9d5e5,stroke:#333,stroke-width:2px,color:black
     style B fill:#eeac99,stroke:#333,stroke-width:2px,color:black
     style C fill:#e06377,stroke:#333,stroke-width:2px,color:white
