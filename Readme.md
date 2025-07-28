@@ -97,7 +97,7 @@ Context-Engineering/
 
 ## 📊 Context Engineering Workflow
 
-![Context Engineering Workflow](images/diagrams/context-engineering-workflow.png)
+![Context Engineering Workflow](images/diagrams/context-engineering-workflow.svg)
 
 1. **Define Project Rules**: Establish global guidelines for your project
 2. **Create Feature Request**: Clearly define what you want to build
